@@ -1,2 +1,1 @@
-# NC-textchanger-js
-Allows to change text in any element of the page sequentially
+You got me looping round round and round round round around round round around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around and around
